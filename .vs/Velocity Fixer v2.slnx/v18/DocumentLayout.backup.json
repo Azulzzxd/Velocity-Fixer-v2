@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Azul\\source\\repos\\Velocity Fixer v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A0FE0A-03E1-5A4B-472A-0FDCD3D1A906}|Velocity Fixer v2\\Velocity Fixer v2.csproj|c:\\users\\azul\\source\\repos\\velocity fixer v2\\velocity fixer v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A0FE0A-03E1-5A4B-472A-0FDCD3D1A906}|Velocity Fixer v2\\Velocity Fixer v2.csproj|solutionrelative:velocity fixer v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Azul\\source\\repos\\Velocity Fixer v2\\Velocity Fixer v2\\Program.cs",
+              "RelativeDocumentMoniker": "Velocity Fixer v2\\Program.cs",
+              "ToolTip": "C:\\Users\\Azul\\source\\repos\\Velocity Fixer v2\\Velocity Fixer v2\\Program.cs",
+              "RelativeToolTip": "Velocity Fixer v2\\Program.cs",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAAADYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T11:37:35.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
