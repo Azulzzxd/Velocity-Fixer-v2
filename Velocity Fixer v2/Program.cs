@@ -1,4 +1,4 @@
-﻿using Microsoft.Win32;
+using Microsoft.Win32;
 using System;
 using System.Diagnostics;
 using System.Linq;
@@ -347,7 +347,7 @@ class Program
 
             return File.Exists(path);
         }
-    
+
         static bool IsFishstrapInstalled()
         {
             try
@@ -741,7 +741,7 @@ class Program
             {
                 const string url = "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.9/windowsdesktop-runtime-10.0.9-win-x64.exe";
 
-                string tempFile = Path.Combine(Path.GetTempPath(), "windowsdesktop-runtime-10.0.9-win-x64;
+                string tempFile = Path.Combine(Path.GetTempPath(), "windowsdesktop-runtime-10.0.9-win-x64;");
 
                 Console.Clear();
                 Console.WriteLine("Downloading .NET 10 SDK...\n");
