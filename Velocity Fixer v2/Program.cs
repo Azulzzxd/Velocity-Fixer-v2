@@ -739,9 +739,9 @@ class Program
         {
             try
             {
-                const string url = "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.301/dotnet-sdk-10.0.301-win-x86.exe";
+                const string url = "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.9/windowsdesktop-runtime-10.0.9-win-x64.exe";
 
-                string tempFile = Path.Combine(Path.GetTempPath(), "dotnet-sdk-10.exe");
+                string tempFile = Path.Combine(Path.GetTempPath(), "windowsdesktop-runtime-10.0.9-win-x64;
 
                 Console.Clear();
                 Console.WriteLine("Downloading .NET 10 SDK...\n");
