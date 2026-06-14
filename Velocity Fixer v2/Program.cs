@@ -739,7 +739,7 @@ class Program
         {
             try
             {
-                const string url = "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.9/windowsdesktop-runtime-10.0.9-win-x64.exe";
+                const string url = "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.9/windowsdesktop-runtime-10.0.9-win-x86.exe";
 
                 string tempFile = Path.Combine(Path.GetTempPath(), "windowsdesktop-runtime-10.0.9-win-x64.exe");
 
